@@ -1,0 +1,42 @@
+# MkDocs and Material for MkDocs
+mkdocs
+mkdocs-material
+
+# For deploying to GitHub Pages
+# mkdocs-gh-deploy is included in mkdocs, but explicitly mentioned for clarity
+# If you face issues, you might need to install it separately in some environments.
+# It's generally NOT needed to be explicitly in requirements.txt
+# mkdocs-gh-deploy
+
+# Markdown extensions (as specified in the mkdocs.yaml)
+pymdownx.arithmatex
+pymdownx.caret
+pymdownx.critic
+pymdownx.details
+pymdownx.emoji
+pymdownx.inlinehilite
+pymdownx.mark
+pymdownx.smartsymbols
+pymdownx.tabbed
+pymdownx.tasklist
+pymdownx.tilde
+
+# Other extensions (included in mkdocs.yaml)
+# These are often bundled with pymdownx, but if you encounter
+# "ModuleNotFoundError" for any of these, uncomment them.
+# pymdownx.superfences
+
+# Explanation:
+# While 'mkdocs' and 'mkdocs-material' are the core dependencies, the other packages listed here are
+# essential for the functionality you've configured in your mkdocs.yaml file.
+#
+# - pymdownx.*: These are Markdown extensions that add extra features like mathematical expressions,
+#   tables, and other formatting options.  If these are not installed, your MkDocs build might
+#   fail or not render correctly if your Markdown files use these features.
+#
+# So, to ensure your MkDocs site builds correctly with all the features you've specified,
+# it's important to include all the packages from the Canvas in your requirements.txt.
+#
+# You *could* have a minimal requirements.txt with just 'mkdocs' and 'mkdocs-material' and then
+# install the other packages separately, but including them all in requirements.txt ensures
+# a consistent and reproducible setup.
