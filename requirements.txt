@@ -9,17 +9,17 @@ mkdocs-material
 # mkdocs-gh-deploy
 
 # Markdown extensions (as specified in the mkdocs.yaml)
-pymdownx.arithmatex
-pymdownx.caret
-pymdownx.critic
-pymdownx.details
-pymdownx.emoji
-pymdownx.inlinehilite
-pymdownx.mark
-pymdownx.smartsymbols
-pymdownx.tabbed
-pymdownx.tasklist
-pymdownx.tilde
+# pymdownx.arithmatex
+# pymdownx.caret
+# pymdownx.critic
+# pymdownx.details
+# pymdownx.emoji
+# pymdownx.inlinehilite
+# pymdownx.mark
+# pymdownx.smartsymbols
+# pymdownx.tabbed
+# pymdownx.tasklist
+# pymdownx.tilde
 
 # Other extensions (included in mkdocs.yaml)
 # These are often bundled with pymdownx, but if you encounter
