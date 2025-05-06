@@ -26,8 +26,8 @@ markdown_extensions:
   - codehilite:
       guess_lang: false
   - footnotes
-  - pymdownx.arithmatex:
-      generic: true
+  # - pymdownx.arithmatex:
+  #     generic: true
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
