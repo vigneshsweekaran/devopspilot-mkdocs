@@ -21,25 +21,25 @@ nav:
   #   - Introduction to IaC: terraform/introduction.md
   #   - Core Concepts: terraform/basics.md
 
-markdown_extensions:
-  - admonition
-  - codehilite:
-      guess_lang: false
-  - footnotes
-  # - pymdownx.arithmatex:
-  #     generic: true
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
+# markdown_extensions:
+#   - admonition
+#   - codehilite:
+#       guess_lang: false
+#   - footnotes
+#   # - pymdownx.arithmatex:
+#   #     generic: true
+#   - pymdownx.critic
+#   - pymdownx.details
+#   - pymdownx.emoji:
+#       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+#   - pymdownx.inlinehilite
+#   - pymdownx.mark
+#   - pymdownx.smartsymbols
+#   - pymdownx.tabbed:
+#       alternate_style: true
+#   - pymdownx.tasklist:
+#       custom_checkbox: true
+#   - pymdownx.tilde
 
 plugins:
   - search

@@ -3,20 +3,20 @@ mkdocs==1.5.3
 mkdocs-material==9.5.14
 
 # Markdown extensions (as specified in the mkdocs.yaml)
-pymdownx==10.6
+# pymdownx==10.6
 
 #Pymdown Extensions
-pymdownx.arithmatex==10.6
-pymdownx.caret==10.6
-pymdownx.critic==10.6
-pymdownx.details==10.6
-pymdownx.emoji==10.6
-pymdownx.inlinehilite==10.6
-pymdownx.mark==10.6
-pymdownx.smartsymbols==10.6
-pymdownx.tabbed==10.6
-pymdownx.tasklist==10.6
-pymdownx.tilde==10.6
+# pymdownx.arithmatex==10.6
+# pymdownx.caret==10.6
+# pymdownx.critic==10.6
+# pymdownx.details==10.6
+# pymdownx.emoji==10.6
+# pymdownx.inlinehilite==10.6
+# pymdownx.mark==10.6
+# pymdownx.smartsymbols==10.6
+# pymdownx.tabbed==10.6
+# pymdownx.tasklist==10.6
+# pymdownx.tilde==10.6
 
 
 # Other extensions (included in mkdocs.yaml)
